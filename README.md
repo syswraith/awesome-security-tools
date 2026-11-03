@@ -2,6 +2,8 @@
 
 For CTFs, Reverse Engineering and Problem Solving!
 
+Want to contribute? Read [CONTRIBUTING.md](CONTRIBUTING.md).
+
 | Tool                                           | Description                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Aperi'Solve](https://aperisolve.fr/)          | Uses zsteg, steghide, outguess, exiftool, binwalk, foremost, and strings for deeper steganography analysis. Supports image formats such as `.png`, `.jpg`, `.gif`, `.bmp`, `.jpeg`, `.jfif`, `.jpe`, `.tiff`, and more.                                                                         |
