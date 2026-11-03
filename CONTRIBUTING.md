@@ -4,7 +4,7 @@ Thanks for helping make this list better! This repository collects useful tools 
 
 ## What to contribute
 
-Any useful, publicly accessible tool that fits the list. Tools must have a FOSS-compatible license (for example MIT, Apache-2.0, BSD, GPL, LGPL, AGPL, or MPL). Please do not submit proprietary, source-unavailable, or unlicensed tools.
+Any useful, publicly accessible tool that fits the list.
 
 Submit one tool per pull request.
 
@@ -21,7 +21,6 @@ Your pull request should include:
 - **Name** of the tool.
 - **Link** to the tool.
 - **Description** of what the tool does and why it is useful.
-- **License** name (for example MIT or GPL-3.0).
 
 ## Entry format
 
@@ -33,9 +32,8 @@ Use this format for the new table row:
 
 ## Guidelines
 
-- The tool must be useful and FOSS-compatible.
+- The tool must be useful and publicly accessible.
 - The link must work.
 - Keep the description concise, ideally one or two sentences.
-- Use a FOSS-compatible license and state the license name in your pull request.
 - Submit one tool per pull request.
 - Preserve the existing table formatting and alignment.
