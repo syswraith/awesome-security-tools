@@ -1,10 +1,10 @@
 # Contributing
 
-Thanks for helping make this list better! This repository collects web-based tools for CTFs, reverse engineering, and problem solving.
+Thanks for helping make this list better! This repository collects useful tools for CTFs, reverse engineering, and problem solving.
 
 ## What to contribute
 
-Any publicly accessible, web-based tool that fits the list. Tools must have a FOSS-compatible license (for example MIT, Apache-2.0, BSD, GPL, LGPL, AGPL, or MPL). Please do not submit proprietary, source-unavailable, or unlicensed tools.
+Any useful, publicly accessible tool that fits the list. Tools must have a FOSS-compatible license (for example MIT, Apache-2.0, BSD, GPL, LGPL, AGPL, or MPL). Please do not submit proprietary, source-unavailable, or unlicensed tools.
 
 Submit one tool per pull request.
 
@@ -33,7 +33,7 @@ Use this format for the new table row:
 
 ## Guidelines
 
-- The tool must be web-based and publicly accessible.
+- The tool must be useful and FOSS-compatible.
 - The link must work.
 - Keep the description concise, ideally one or two sentences.
 - Use a FOSS-compatible license and state the license name in your pull request.

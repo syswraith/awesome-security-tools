@@ -7,7 +7,7 @@
 
 ## Checklist
 
-- [ ] Web-based and publicly accessible
+- [ ] Useful and publicly accessible
 - [ ] Link works
 - [ ] Description is concise (1-2 sentences)
 - [ ] FOSS-compatible license verified
